@@ -1,0 +1,22 @@
+.icon {
+    margin-top: 299vh;
+    margin-left: 45vw;
+    height: 2.1rem;
+}
+.footer_F{
+    background-color: rgb(34, 30, 30);
+    width: 100vw;
+    z-index: 110;
+    display: flex;
+}
+.footer_links{
+    margin-left: 34vw;
+    font-weight: 100;
+    padding-bottom: 10vh;
+
+}
+.footer_links a {
+    color: rgb(76, 155, 208);
+    margin-left: 2vw;
+
+}
